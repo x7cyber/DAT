@@ -82,5 +82,4 @@ chmod +x run
 
 | 👤 Author | 📅 Last Update | 📜 License |
 |-----------|----------------|------------|
-| [Cyber M](https://github.com/x7cyber) | 18 Desember 2024 | [MIT](LICENSE) |
-ge/license-MIT-blue)
+| [Cyber M](https://github.com/x7cyber) | 18 Desember 2024 | [MIT](LICENSE) | ge/license-MIT-blue)
